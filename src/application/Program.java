@@ -5,5 +5,6 @@ public class Program {
 		
 		System.out.println("Boa tarde!");
 		System.out.println("Boa noite!");
+		System.out.println("Outro teste.");
 	}
 }
